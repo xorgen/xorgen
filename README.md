@@ -1,2 +1,2 @@
 - Hi, my name is Claire and I am a junior web developer. 
-- [a link]Link to my LinkedIn profil(https://www.linkedin.com/in/claire-brunel-087879211/)
+- [LinkedIn](https://www.linkedin.com/in/claire-brunel-087879211)
