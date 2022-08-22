@@ -1,4 +1,4 @@
-Hi :wave:
+## Hi :wave:
 
 - My name is Claire and I am a junior web developer. 
 - [LinkedIn](https://www.linkedin.com/in/claire-brunel-087879211)
